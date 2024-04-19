@@ -37,7 +37,7 @@ FROM customer_orders;
 ```
 
 
--- 3. 3.How many successful orders were delivered by each runner?
+-- 3.How many successful orders were delivered by each runner?
 ```sql  
 SELECT r.runner_id,
 COUNT(DISTINCT c.order_id) as delivered_count
