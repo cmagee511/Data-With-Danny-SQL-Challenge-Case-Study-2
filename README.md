@@ -23,7 +23,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 ## Case Study Questions
 
--- -- 1.How many pizzas were ordered?
+-- 1.How many pizzas were ordered?
 ```sql  
 SELECT COUNT(*) as total_num_pizzas_ordered
 FROM customer_orders;
