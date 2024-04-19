@@ -8,7 +8,7 @@ This case study is done on the Pizza Runner Data set and below is the answers fo
 
 ## SQL Soultions  (Case Statements,Date Functions,Joins)
 
-[SQL Soultions]()
+[SQL Soultions](https://github.com/cmagee511/Data-With-Danny-SQL-Challenge-Case-Study-2/blob/main/SQL%20Answers.sql)
 
 ## Introduction
 
